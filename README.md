@@ -1,0 +1,1 @@
+Go by examples from [Go by Example](https://gobyexample.com/)
